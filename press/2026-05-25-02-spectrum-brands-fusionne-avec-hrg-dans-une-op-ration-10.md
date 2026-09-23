@@ -1,7 +1,9 @@
 ---
 title: Spectrum Brands fusionne avec HRG dans une opération à $10 ...
 url: https://www.reuters.com/article/spectrum-hrg-idFRL8N1QG5C4/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"HRG Group" press release artificial intelligence'
 position: 2
 source: serpapi-google
